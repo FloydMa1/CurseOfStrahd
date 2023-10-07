@@ -1,0 +1,4 @@
+![[Talkie Rings.png]]
+
+Worth: Price 6,000 gp
+Description: Created in pairs, these simple golden rings allow for short-range communication between the wearers. The listed price and cost are for both rings. As long as the wearers are within 1 mile of one another, they can communicate by whispering, causing the other ring to whisper the words to the recipient. Words spoken into or recited by a communique ring can be heard by nearby creatures if the wearer speaks too loudly. A communique ring transmits sound only while worn, and a wearer can remove the ring if she needs to be silent. Only magical silence or distance will block this communication, and wearers can speak through walls and other obstructions normally. The rings pick up only sound directly spoken into them by the wearer with the intent to transmit, not ambient sounds or the voices of other creatures.

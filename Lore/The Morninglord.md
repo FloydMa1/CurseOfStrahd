@@ -1,0 +1,8 @@
+The Morninglord is one of two deities believed to watch over the land of Barovia, the other being Mother Night.
+
+The Morninglord is said to be the god of Dawn, Renewal, Life, Day, Healing, Spring, and many other concepts associated with the sun and positive energy. [[Chruch (E5)|The church in the Village of Barovia]], St. Andral’s Church in Vallaki, and the Abbey of St. Markovia in Kresk are all dedicated to him. It appears that most Barovians nominally worship the Morninglord and that his counterpart Mother Night is more of a folk bugaboo than a functional part of a pantheon. However, the Morninglord himself doesn’t appear truly present in Barovia, either. Compared with the interactive and undeniable pantheons of the Forgotten Realms, the Morninglord seems to be more of an abstraction and could be argued not to exist at all except for a sparse few clerics who seem to be awarded divine magic by their benefactor.
+
+It is not lost on the Outlanders that the name Morninglord is sometimes used as an appellation for the Realms god Lathander or, alternatively, for certain of his followers. It is true that the professed portfolios of these Gods overlap in many places, however, Barovia’s Morninglord has a more expansive responsibility. Additionally, personality traits attributed to the two figures are very different, with the Morninglord being characterized as grim and resolute even in his hopefulness, while Lathander is often portrayed as childlike, enthusiastic, vain, and given to excessive indulgences.
+
+Before the curse of Strahd befell the land, the Morninglord watched over the Barovian people from sunrise until sundown. Now, the sun has not shone unobscured for centuries, and the Morninglord no longer answers their prayers.
+
