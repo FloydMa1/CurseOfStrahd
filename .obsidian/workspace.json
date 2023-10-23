@@ -8,30 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "97d63eab7711d847",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "World/Town of Vallaki/Blue Water Inn(N2).md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6cd0db064d208c05",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Mechanics/Card Reading Results.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "9e8671c9f35d6733",
             "type": "leaf",
             "state": {
@@ -44,14 +20,29 @@
             }
           },
           {
-            "id": "ee60ae84c3d7e968",
+            "id": "cb38a62d009676f2",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "World/Town of Vallaki/Burgomaster's Mansion(N3).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "97d63eab7711d847",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "World/Appendixes/Appendix D_ Monsters and NPCs.pdf"
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -117,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "World/Town of Vallaki/Blue Water Inn(N2).md",
+                "file": "World/Town of Vallaki/Burgomaster's Mansion(N3).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "World/Town of Vallaki/Blue Water Inn(N2).md",
+                "file": "World/Town of Vallaki/Burgomaster's Mansion(N3).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "World/Town of Vallaki/Blue Water Inn(N2).md"
+                "file": "World/Town of Vallaki/Burgomaster's Mansion(N3).md"
               }
             }
           }
@@ -178,16 +169,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "97d63eab7711d847",
+  "active": "cb38a62d009676f2",
   "lastOpenFiles": [
+    "World/Appendixes/Appendix D_ Monsters and NPCs.pdf",
+    "World/Town of Vallaki/Burgomaster's Mansion(N3).md",
+    "World/Appendixes/Monsters and Creatures.md",
+    "Images/Burgomaster's Mansion map.png",
+    "World/Town of Vallaki/Blue Water Inn(N2).md",
+    "Lore/Vallaki.md",
+    "Mechanics/Card Reading Results.md",
     "World/Town of Vallaki/ST. Andral's Church(N1).md",
     "World/Town of Vallaki/Vallaki Map.png",
-    "World/Town of Vallaki/Blue Water Inn(N2).md",
     "Images/Blue Water Inn Map.png",
-    "Mechanics/Card Reading Results.md",
     "World/Town of Vallaki/Town Of Vallaki.md",
-    "World/Appendixes/Monsters and Creatures.md",
-    "Lore/Vallaki.md",
     "World/Village of Barovia/The village of Barovia.md",
     "Session Notes/Session 6.md",
     "NPC's/Ismark Kolyanovich.md",
@@ -215,16 +209,13 @@
     "NPC's/Ireena Kolyana.md",
     "World/Castle Ravenloft/Maps/Elevator Trap.png",
     "World/Castle Ravenloft/Maps/Map 5.png",
-    "World/Castle Ravenloft/Court of the Count.md",
     "World/Castle Ravenloft/Maps/Map 4.png",
-    "World/Castle Ravenloft/Maps/Map K7 - K24.png",
     "World/Town of Vallaki",
     "Manuals/Player's Handbook.pdf",
     "Mechanics/Card Reading Madam Eva.pdf",
     "Items and Weapons/Appendix C; Treasure.pdf",
     "Items and Weapons/Items",
     "World/Village of Barovia/Haunted House (E7).pdf",
-    "World/Castle Ravenloft/Maps",
     "Untitled.canvas"
   ]
 }
