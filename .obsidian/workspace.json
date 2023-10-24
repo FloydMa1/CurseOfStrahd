@@ -25,7 +25,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "World/Town of Vallaki/Burgomaster's Mansion(N3).md",
+                "file": "World/Town of Vallaki/Special Events.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d35579930cb85c7c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Mechanics/Card Reading Results.md",
                 "mode": "source",
                 "source": false
               }
@@ -108,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "World/Town of Vallaki/Burgomaster's Mansion(N3).md",
+                "file": "World/Town of Vallaki/Special Events.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "World/Town of Vallaki/Burgomaster's Mansion(N3).md",
+                "file": "World/Town of Vallaki/Special Events.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "World/Town of Vallaki/Burgomaster's Mansion(N3).md"
+                "file": "World/Town of Vallaki/Special Events.md"
               }
             }
           }
@@ -171,18 +183,31 @@
   },
   "active": "cb38a62d009676f2",
   "lastOpenFiles": [
+    "World/Village of Barovia/The village of Barovia.md",
+    "World/Town of Vallaki/Special Events.md",
+    "World/Town of Vallaki/Vallaki Camp(N9).md",
+    "World/Barovia.md",
     "World/Appendixes/Appendix D_ Monsters and NPCs.pdf",
+    "World/Village of Barovia/Mad Mary_s Townhouse (E3).md",
+    "Images/Screenshot 2023-10-24 at 15.18.40.png",
+    "World/Town of Vallaki/Town Square(N8).md",
+    "World/Town of Vallaki/Blinksy Toys(N7).md",
+    "World/Town of Vallaki/Coffin maker's shop(N6).md",
+    "Images/Coffin shop map.png",
+    "World/Town of Vallaki/Arasek Stockyard(N5).md",
+    "Images/Screenshot 2023-10-24 at 15.00.30.png",
+    "World/Town of Vallaki/Wachterhaus(N4).md",
+    "Images/Wachterhaus map.png",
     "World/Town of Vallaki/Burgomaster's Mansion(N3).md",
+    "Mechanics/Card Reading Results.md",
     "World/Appendixes/Monsters and Creatures.md",
     "Images/Burgomaster's Mansion map.png",
     "World/Town of Vallaki/Blue Water Inn(N2).md",
     "Lore/Vallaki.md",
-    "Mechanics/Card Reading Results.md",
     "World/Town of Vallaki/ST. Andral's Church(N1).md",
     "World/Town of Vallaki/Vallaki Map.png",
     "Images/Blue Water Inn Map.png",
     "World/Town of Vallaki/Town Of Vallaki.md",
-    "World/Village of Barovia/The village of Barovia.md",
     "Session Notes/Session 6.md",
     "NPC's/Ismark Kolyanovich.md",
     "Players/Zinyra Tree.md",
@@ -190,26 +215,14 @@
     "Players/Ferris \"coins\" Boons.md",
     "Players/Aromorn Morwen.md",
     "World/Old Bonegrinder.md",
-    "World/Barovia.md",
     "Manuals/Dungeon Master's Guide.pdf",
     "Mechanics/Encounters.md",
     "Mechanics/Common Features.md",
-    "World/Village of Barovia/Mad Mary's Townhouse (E3).md",
-    "World/Village of Barovia/Chruch (E5).md",
     "Manuals/Monster Manual.pdf",
-    "Session Notes/Session 5.md",
     "Images/Windmill Map.png",
     "Images/Dretch Stats.png",
     "Images/Windmill.png",
-    "NPC's/Strahd von Zarovich.md",
     "World/Appendixes/Appendix D; Monsters and NPCs.pdf",
-    "Lore/Barovian.md",
-    "Images/Ismark Stats.png",
-    "World/Castle Ravenloft/Rooms of Weeping.md",
-    "NPC's/Ireena Kolyana.md",
-    "World/Castle Ravenloft/Maps/Elevator Trap.png",
-    "World/Castle Ravenloft/Maps/Map 5.png",
-    "World/Castle Ravenloft/Maps/Map 4.png",
     "World/Town of Vallaki",
     "Manuals/Player's Handbook.pdf",
     "Mechanics/Card Reading Madam Eva.pdf",
