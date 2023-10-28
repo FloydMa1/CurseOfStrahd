@@ -1,6 +1,6 @@
 For the map of the inn you can find [[#Map (N2)|here]].
 
-"Gray smoke issues from the chimney of this large, twostory wooden building with a stone foundation and sagging tile roof, upon which several ravens have perched. A painted wooden sign hanging above the main entrance depicts a blue waterfall."
+"Gray smoke issues from the chimney of this large, two story wooden building with a stone foundation and sagging tile roof, upon which several ravens have perched. A painted wooden sign hanging above the main entrance depicts a blue waterfall."
 
 The Blue Water Inn is Vallaki's main gathering place for locals, especially at night. The innkeeper, Urwin Martikov, considers the inn a sanctuary from the evils of this land. In the event of trouble the windows and doors can all be barred shut from within. A bed for the night costs 1 ep. Characters looking for something to eat are fed hot beet soup and fresli bread at no additional charge. A cooked wolf steak costs 1 ep. The inn offers a pint of Purple Grapemash No. 3 wine for 3 cp, or a pint of the superior Red Dragon Crush wine for 1 sp. Urwin is hurt if the characters complain about the wines, for his family makes them. The inn's wine supply is almost depleted, and the latest delivery from the Wizard of Wines winery is overdue. If the characters claim to be adventurers, Urwin asks them if they would be so kind as to find out what's holding up the latest shipment, promising them free room and board if they return with the wine.
 

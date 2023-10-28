@@ -2,28 +2,28 @@ You can view the map of the mansion [[#Manion Map|here]].
 
 "This mansion has walls of plastered stone that display many scars where the plaster has fallen away from age and neglect. Drapes cover every window, including a large, arched opening above the mansion's double entrance doors."
 
-People come and go from the mansion at all hours during the day. Guards bring criminals cited for "malicious unhappiness." Men and women arrive carrying bundles of twigs, which are piled about the mansion's grand foyer (area N3a) until the construction of the wicker sun for the Festival of the Blazing Sun gets under way. If the characters knock on the front doors, a maid (LG female human commoner) lets them in, escorts them to the den (area N3e), and leaves to fetch the baron.
+People come and go from the mansion at all hours during the day. Guards bring criminals cited for "malicious unhappiness." Men and women arrive carrying bundles of twigs, which are piled about the mansion's grand foyer (area [[#Entrance hall and vestibule(N3a)|N3a]]) until the construction of the wicker sun for the Festival of the Blazing Sun gets under way. If the characters knock on the front doors, a maid (LG female human commoner) lets them in, escorts them to the den (area [[#Den (N3e)]]), and leaves to fetch the baron.
 
 ROLEPLAYING THE VALLAKOVICH FAMILY
 Use the following information to roleplay the burgomaster and his family. 
 
 **The Baron** 
-The burgomaster, Baron Vargas Vallakovich (NE male human noble), is a ruthless heel who prides himself on his good breeding and finely honed leadership skills. He stages repeated celebrations to foster happiness, and his "All will be well!" catchphrase has become a sad and tiresome punchline. Baron Vallakovicb has convinced himself that if he can make everyone in Vallaki happy, the town will slip free of Strahd's dark grasp. The baron has a brittle ego, and he lashes out at anyone who pokes fun at his festivals or treats him disrespectfully. He has two pet mastiffs that follow him everywhere, as well as a murderous and deformed henchman named [[Appendix D_ Monsters and NPCs.pdf#page=8|Izek Strazni]] (see appendix D). In addition to his weapons, Izek carries an iron ring of keys that unlock the stocks in the town square (area N8). If the characters get on his bad side, the baron accuses them of being "spies of the devil Strahd" and sends twelve guards to arrest them, seize their weapons, and run them out of town. If the guards fail in their duty, the baron sends Izek to rally a mob of thirty commoners to lynch the party. If the commoners also fail, the baron summons the twelve remaining guards to defend his mansion, giving characters the run of the town. If the characters get on his good side, he insists that they join him in the next festival as special guests and asks that they tell everyone that all will, indeed, be well. 
+The burgomaster, Baron Vargas Vallakovich (NE male human noble), is a ruthless heel who prides himself on his good breeding and finely honed leadership skills. He stages repeated celebrations to foster happiness, and his "All will be well!" catchphrase has become a sad and tiresome punchline. Baron Vallakovich has convinced himself that if he can make everyone in Vallaki happy, the town will slip free of Strahd's dark grasp. The baron has a brittle ego, and he lashes out at anyone who pokes fun at his festivals or treats him disrespectfully. He has two pet mastiffs that follow him everywhere, as well as a murderous and deformed henchman named [[Appendix D_ Monsters and NPCs.pdf#page=8|Izek Strazni]] (see appendix D). In addition to his weapons, Izek carries an iron ring of keys that unlock the stocks in the town square (area [[Town Square(N8)|N8]]). If the characters get on his bad side, the baron accuses them of being "spies of the devil Strahd" and sends twelve guards to arrest them, seize their weapons, and run them out of town. If the guards fail in their duty, the baron sends Izek to rally a mob of thirty commoners to lynch the party. If the commoners also fail, the baron summons the twelve remaining guards to defend his mansion, giving characters the run of the town. If the characters get on his good side, he insists that they join him in the next festival as special guests and asks that they tell everyone that all will, indeed, be well. 
 
 Two members of the baron's household staff have vanished in the past week: the butler and the baroness's lady-in-waiting. The baron has charged Izek with finding out what happened to them, but investigation isn't Izek's forte. Searches have been organized, to no avail.
 
 **The Baroness** 
-At the risk of sacrificing her sanity, the baron's wife, Lydia Petrovna (LG female human commoner), has embraced her husband's philosophy of happiness. She laughs at the baron's every comment, to the extent that it has become a nervous reflex, and she tries to spread good cheer by throwing daily tea-andsandwich parties in the parlor for her "dearest friends," many of them poor folk who tolerate the baroness only because they crave something warm to eat and drink. Lydia is a gods-fearing woman and the younger sister of the-town priest, Father Lucian Petrovkh. She is a descendant of Tasha Petrovna, a priest entombed in Castle Ravenloft (area K84, crypt 11).
+At the risk of sacrificing her sanity, the baron's wife, Lydia Petrovna (LG female human commoner), has embraced her husband's philosophy of happiness. She laughs at the baron's every comment, to the extent that it has become a nervous reflex, and she tries to spread good cheer by throwing daily tea-and sandwich parties in the parlor for her "dearest friends," many of them poor folk who tolerate the baroness only because they crave something warm to eat and drink. Lydia is a gods-fearing woman and the younger sister of the town priest, Father Lucian Petrovkh. She is a descendant of Tasha Petrovna, a priest entombed in Castle Ravenloft (area K84, crypt 11).
 
 **The Baronet**
-The baron's miserable son, Victor Vallakovich (NE male human mage), has confined himself to the attic (area N3t), where he is content to avoid the unwanted attention of his mother and the disapproving glares of his father. Years ago, Victor found an old spellbook in the mansion's library and used it to teach himself magic. He has been busy constructing a teleportation circle in the hope of escaping Barovia and leaving his parents to their doom.
+The baron's miserable son, Victor Vallakovich (NE male human mage), has confined himself to the attic (area [[#Victor's workroom(N3t)|N3t]]), where he is content to avoid the unwanted attention of his mother and the disapproving glares of his father. Years ago, Victor found an old spellbook in the mansion's library and used it to teach himself magic. He has been busy constructing a teleportation circle in the hope of escaping Barovia and leaving his parents to their doom.
 ## Entrance hall and vestibule(N3a)
 "Framed portraits adorn the walls of this grand foyer, which features a wide staircase with a sculpted railing. A long, carpeted hall attached to the foyer stretches almost the length of the mansion and has several doors leading away from it, including one at the far end. Bundles of twigs are heaped against the walls."
 
-The twigs are being stored here until they can be fashioned into a wooden effigy of the sun (for the Festival of the Blazing Sun). The stairs climb to the upstairs gallery (area N3i). The portraits depict the baron, his family, and their ancestors. Close inspection reveals that some of the people portrayed look very much alike. Tucked in the northeast corner of the foyer is a vestibule packed with fine cloaks, coats, and boots.
+The twigs are being stored here until they can be fashioned into a wooden effigy of the sun (for the Festival of the Blazing Sun). The stairs climb to the upstairs gallery (area [[#Upstairs gallery(N3i)|N3i]]). The portraits depict the baron, his family, and their ancestors. Close inspection reveals that some of the people portrayed look very much alike. Tucked in the northeast corner of the foyer is a vestibule packed with fine cloaks, coats, and boots.
 
 ## Parlor(N3b)
-"This parlor contains a fine array offurnishings and draperies, with an overall feminine touch."
+"This parlor contains a fine array of furnishings and draperies, with an overall feminine touch."
 
 The baroness sometimes entertains guests here.
 
@@ -47,17 +47,17 @@ Characters who ask to see the burgomaster are brought here.
 
 "Padded chairs and couches line the walls of this cozy, carpeted den. The room reeks of pipe smoke, and mounted on the east wall is the head of an angry-looking brown bear."
 
-The mounted bear's head is meant to unnerve visitors. It serves as a subtle warning not to antagonize the burgomaster, who spends most of his time in the library (area N3l). Although the burgomaster claims that his father killed the bear, the head was actually a gift given to his family by the late Szoldar Grygorovich, father of the wolf hunter Szoldar Szoldarovich (area [[Blue Water Inn(N2)|N2]]).
+The mounted bear's head is meant to unnerve visitors. It serves as a subtle warning not to antagonize the burgomaster, who spends most of his time in the library (area [[#Library(N3l)|N3l]]). Although the burgomaster claims that his father killed the bear, the head was actually a gift given to his family by the late Szoldar Grygorovich, father of the wolf hunter Szoldar Szoldarovich (area [[Blue Water Inn(N2)|N2]]).
 
 ## Servant's quarter(N3f)
 "This room contains four simple beds and an equal number of plain wooden trunks."
 
-The household staff consists of a maid (LG female human commoner) and a cook (LG male human commoner). The other two beds belonged to the butler and the baroness's lady-in-waiting, both of whom have gone missing (see area N3t). The trunks contain the staff's clothing and uniforms.
+The household staff consists of a maid (LG female human commoner) and a cook (LG male human commoner). The other two beds belonged to the butler and the baroness's lady-in-waiting, both of whom have gone missing (see area [[#Victor's workroom(N3t)|N3t]]). The trunks contain the staff's clothing and uniforms.
 
 ## Kitchen(N3g)
 "A cook wearing a white apron over a black smock busies himself in this warm, well-appointed kitchen. A staircase in one corner climbs to the upper floor."
 
-The staircase leads to the upstairs gallery (area N3i). A door in the west wall leads to a garden outside. The door is usually locked, and both the cook and the burgomaster carry keys to unlock it.
+The staircase leads to the upstairs gallery (area [[#Upstairs gallery(N3i)|N3i]]). A door in the west wall leads to a garden outside. The door is usually locked, and both the cook and the burgomaster carry keys to unlock it.
 
 ## Pantry(N3g)
 "This pantry contains shelves of foodstuffs, although half of the shelves are bare. Two barrels of wine stand against the east wall."
@@ -69,7 +69,7 @@ If the characters arrive here from the entrance hall (area [[#Entrance hall and 
 
 "The staircase climbs twenty feet to a beautifully appointed gallery that continues toward the west, running almost the length of the mansion. Framed landscape paintings line the walls, and red silk drapes cover a tenfoot-tall arched window of leaded glass."
 
-If the characters arrive here from the kitchen (area N3g), read:
+If the characters arrive here from the kitchen (area [[#Pantry(N3g)|N3g]]), read:
 
 "The staircase climbs to a ten-foot-wide gallery that stretches almost the length of the mansion. Breathtaking paintings of landscapes line the walls. Two separate, narrow hallways lead away from the gallery to the north."
 
@@ -81,7 +81,7 @@ The door to this room is locked. Izek Strazni carries the only key. The followin
 The burgomaster's monstrous henchman, [[Appendix D_ Monsters and NPCs.pdf#page=8|Izek Strazni]], sleeps here at night. During the day, he is in town taking care of his master's business. Izek's chest is unlocked and contains a heap of wrinkled clothes, under which is a nonmagical shortsword. A thorough search of the room reveals a few empty wine bottles under the bed. The label on each bears the winery's name, the Wizard of Wines, and wine's name, Purple Grapemash No. 3.
 
 **lzek's Doll Collection**
-Each doll has a small tag stitched into its clothing that reads "Is No Fun, Is No Blinsky!" Izek had the local toymaker, Gadof Blinsky (area N7), craft the dolls in Ireena's likeness.
+Each doll has a small tag stitched into its clothing that reads "Is No Fun, Is No Blinsky!" Izek had the local toymaker, Gadof Blinsky (area [[Blinksy Toys(N7)|N7]]), craft the dolls in Ireena's likeness.
 
 ## Victor's bedroom(N3k)
 "This handsomely appointed room contains a canopied bed, a low bookshelf, and a full-length mirror in a wooden frame on the wall across from the door. Set into the north wall is an arched window of leaded glass. Nothing here seems unusual."
@@ -111,7 +111,7 @@ The man is a Vallakian shoemaker named Udo Lukovich (LN male human commoner). He
 ## Master bedroom(N3o)
 "Time has faded the grandeur of this master bedroom. The furnishings have lost some of their color and splendor. A short pull-rope hangs from a wooden trapdoor in the ceiling."
 
-The baron and the baroness sleep in one bed at night. Nothing of value is kept here. The trapdoor in the ceiling can be pulled down to reveal an attic room (area N3r). An unfolding wooden ladder allows easy access.
+The baron and the baroness sleep in one bed at night. Nothing of value is kept here. The trapdoor in the ceiling can be pulled down to reveal an attic room (area [[#Attic room(N3r)|N3r]]). An unfolding wooden ladder allows easy access.
 
 ## Bridal gown and spirit mirror(N3p)
 "This room smells of powder and fine perfume. A vanity with a mirror stands against one wall next to a faceless wooden mannequin wearing a white bridal gown. Mounted on another wall is a full-length mirror with a gilded frame. A door in one corner leads to a garderobe."
@@ -130,7 +130,7 @@ and wield your murderous blade.
 
 The entity in the mirror is the spirit of a nameless assassin who once belonged to a secret society called the Ba'al Verzi. If a creature speaks the rhyme while standing within 5 feet of the mirror and staring at its own reflection, the assassin's ghost appears nearby. The form that the spirit takes depends on the alignment of the one who summoned it:
 **Non-evil Summoner** 
-If the summoner isn't evil, the spirit assumes solid form, appearing as a darkly handsome thirty-year-old man with bloodshot eyes. He has the statistics of an assassin but doesn't speak, and he disappears into the ether if reduced to O hit points. The assassin's summoner can command him to kill one living creature within Strahd's domain that the summoner mentions by name. The assassin automatically knows the distance and direction to the named target. The assassin attacks any other creature that tries to prevent him from completing his assignment. Once he completes his task, the assassin disappears. If commanded to attack a creature that is either dead or undead, or if he isn't given an appropriate name within 1 round of being summoned, the assassin disappears.
+If the summoner isn't evil, the spirit assumes solid form, appearing as a darkly handsome thirty-year-old man with bloodshot eyes. He has the statistics of an assassin but doesn't speak, and he disappears into the ether if reduced to 0 hit points. The assassin's summoner can command him to kill one living creature within Strahd's domain that the summoner mentions by name. The assassin automatically knows the distance and direction to the named target. The assassin attacks any other creature that tries to prevent him from completing his assignment. Once he completes his task, the assassin disappears. If commanded to attack a creature that is either dead or undead, or if he isn't given an appropriate name within 1 round of being summoned, the assassin disappears.
 
 Once the power of the mirror is used, the mirror becomes dormant until the next dawn. The mirror has AC 10, 5 hit points, and immunity to poison and psychic damage. Destroying it lays the assassin's spirit to rest, causing the manifestation to disappear if it is present. The mirror corrupts those who use it to do evil. Summoning the assassin isn't evil, but using him to commit murder is. Each time a creature uses the mirror for this purpose, there is a cumulative 25 percent chance that the creature's alignment shifts to neutral evil. If a character touches the mirror and speaks Strahd's name, there is a 50 percent chance that Strahd takes notice and appears on the mirror's surface. In this form, the vampire can't be harmed. He tries to charm one humanoid he can see within 30 feet of the mirror. Whether the target resists the effect or not Strahd's smiling visage invites the characters to dine at CastleRavenloft, then fades away. A creature charmed by Strahd feels compelled to accept the vampire's invitation.
 
@@ -138,16 +138,16 @@ Once the power of the mirror is used, the mirror becomes dormant until the next 
 "An iron tub with clawed feet stand against the back wall. Neatly folded towels rest atop a table near the door."
 
 ## Attic room(N3r)
-Characters are most likely to enter this room via a trapdoor in the ceiling of the masters bedroom(area N3o).
+Characters are most likely to enter this room via a trapdoor in the ceiling of the masters bedroom(area [[#Master bedroom(N3o)|N3o]]).
 
 "This dusty, twenty-foot-square room has a high-pitched ceiling that reaches its peak twenty feet above. The wooden rafters are shrouded in cobwebs. Except for an old table with a lantern on it, the room is empty."
 
-A door in the south wall can be pulled open to area N3s.
+A door in the south wall can be pulled open to area [[#Attic sorage(N3s)|N3s]].
 
 ## Attic sorage(N3s)
 "This large attic is full of old, forgotten things draped in white sheets. Piled around them are barrels, crates, trunks, and old furnishings covered with cobwebs and dust. You see a clear footpath through the maze."
 
-Characters can follow a single set of human footprints in the dust that lead to area N3t. Searching through the junk in this attic uncovers a few old paintings and antiques, but nothing of value.
+Characters can follow a single set of human footprints in the dust that lead to area [[#Victor's workroom(N3t)|N3t]]. Searching through the junk in this attic uncovers a few old paintings and antiques, but nothing of value.
 
 ## Victor's workroom(N3t)
 Victor spends most of his time here, leaving only when he needs food or spell components. When the characters first set eyes on the door to this room, read:

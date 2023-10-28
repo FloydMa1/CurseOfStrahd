@@ -32,6 +32,42 @@
             }
           },
           {
+            "id": "6bdce3fbc356d420",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "World/Town of Vallaki/ST. Andral's Church(N1).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "480dddddf04c7840",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Session Notes/Session 7.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "732a86e91d52814b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "World/Town of Vallaki/Burgomaster's Mansion(N3).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "b629ed580d1c544c",
             "type": "leaf",
             "state": {
@@ -183,19 +219,21 @@
   },
   "active": "cb38a62d009676f2",
   "lastOpenFiles": [
+    "World/Town of Vallaki/ST. Andral's Church(N1).md",
+    "World/Town of Vallaki/Town Of Vallaki.md",
+    "Session Notes/Session 7.md",
+    "World/Town of Vallaki/Burgomaster's Mansion(N3).md",
+    "World/Town of Vallaki/Blinksy Toys(N7).md",
+    "World/Appendixes/Appendix D_ Monsters and NPCs.pdf",
+    "World/Town of Vallaki/Blue Water Inn(N2).md",
     "World/Town of Vallaki/Special Events.md",
     "Lore/Vallaki.md",
     "World/Appendixes/Strahd_s invitation.png",
-    "World/Town of Vallaki/Blinksy Toys(N7).md",
     "Mechanics/Card Reading Results.md",
-    "World/Appendixes/Appendix D_ Monsters and NPCs.pdf",
     "World/Town of Vallaki/Wachterhaus(N4).md",
     "World/Town of Vallaki/Town Square(N8).md",
-    "World/Town of Vallaki/Town Of Vallaki.md",
     "World/Town of Vallaki/Coffin maker's shop(N6).md",
-    "World/Town of Vallaki/Burgomaster's Mansion(N3).md",
     "World/Town of Vallaki/Vallaki Camp(N9).md",
-    "World/Town of Vallaki/ST. Andral's Church(N1).md",
     "World/Town of Vallaki/Arasek Stockyard(N5).md",
     "World/Village of Barovia/The village of Barovia.md",
     "World/Barovia.md",
@@ -206,7 +244,6 @@
     "Images/Wachterhaus map.png",
     "World/Appendixes/Monsters and Creatures.md",
     "Images/Burgomaster's Mansion map.png",
-    "World/Town of Vallaki/Blue Water Inn(N2).md",
     "World/Town of Vallaki/Vallaki Map.png",
     "Images/Blue Water Inn Map.png",
     "Session Notes/Session 6.md",
@@ -217,7 +254,6 @@
     "Players/Aromorn Morwen.md",
     "World/Old Bonegrinder.md",
     "Manuals/Dungeon Master's Guide.pdf",
-    "Mechanics/Encounters.md",
     "Manuals/Monster Manual.pdf",
     "Images/Windmill Map.png",
     "Images/Dretch Stats.png",
