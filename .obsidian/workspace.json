@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "World/Town of Vallaki/Special Events.md",
+                "file": "World/Town of Vallaki/Town Of Vallaki.md",
                 "mode": "source",
                 "source": false
               }
@@ -54,7 +54,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -120,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "World/Town of Vallaki/Blinksy Toys(N7).md",
+                "file": "World/Town of Vallaki/Town Of Vallaki.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "World/Town of Vallaki/Blinksy Toys(N7).md",
+                "file": "World/Town of Vallaki/Town Of Vallaki.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "World/Town of Vallaki/Blinksy Toys(N7).md"
+                "file": "World/Town of Vallaki/Town Of Vallaki.md"
               }
             }
           }
@@ -181,13 +181,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b629ed580d1c544c",
+  "active": "cb38a62d009676f2",
   "lastOpenFiles": [
-    "Mechanics/Card Reading Results.md",
-    "World/Town of Vallaki/Blinksy Toys(N7).md",
-    "World/Appendixes/Appendix D_ Monsters and NPCs.pdf",
     "World/Town of Vallaki/Special Events.md",
     "Lore/Vallaki.md",
+    "World/Appendixes/Strahd_s invitation.png",
+    "World/Town of Vallaki/Blinksy Toys(N7).md",
+    "Mechanics/Card Reading Results.md",
+    "World/Appendixes/Appendix D_ Monsters and NPCs.pdf",
     "World/Town of Vallaki/Wachterhaus(N4).md",
     "World/Town of Vallaki/Town Square(N8).md",
     "World/Town of Vallaki/Town Of Vallaki.md",
@@ -220,7 +221,6 @@
     "Manuals/Monster Manual.pdf",
     "Images/Windmill Map.png",
     "Images/Dretch Stats.png",
-    "Images/Windmill.png",
     "World/Appendixes/Appendix D; Monsters and NPCs.pdf",
     "World/Town of Vallaki",
     "Manuals/Player's Handbook.pdf",
