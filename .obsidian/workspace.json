@@ -8,6 +8,30 @@
         "type": "tabs",
         "children": [
           {
+            "id": "480dddddf04c7840",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Session Notes/Session 8.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f1095ec1d6442332",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "World/Old Bonegrinder.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "9e8671c9f35d6733",
             "type": "leaf",
             "state": {
@@ -32,24 +56,12 @@
             }
           },
           {
-            "id": "6bdce3fbc356d420",
+            "id": "9290e921c2636f63",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "World/Town of Vallaki/ST. Andral's Church(N1).md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "480dddddf04c7840",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Session Notes/Session 7.md",
+                "file": "World/Town of Vallaki/Blue Water Inn(N2).md",
                 "mode": "source",
                 "source": false
               }
@@ -68,29 +80,18 @@
             }
           },
           {
-            "id": "b629ed580d1c544c",
+            "id": "2ffea135a0c7911b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "World/Town of Vallaki/Blinksy Toys(N7).md",
+                "file": "World/Town of Vallaki/Burgomaster's Mansion(N3).md",
                 "mode": "source",
                 "source": false
               }
             }
-          },
-          {
-            "id": "97d63eab7711d847",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "World/Appendixes/Appendix D_ Monsters and NPCs.pdf"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -156,7 +157,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "World/Town of Vallaki/Town Of Vallaki.md",
+                "file": "Session Notes/Session 8.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -173,7 +174,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "World/Town of Vallaki/Town Of Vallaki.md",
+                "file": "Session Notes/Session 8.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -196,7 +197,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "World/Town of Vallaki/Town Of Vallaki.md"
+                "file": "Session Notes/Session 8.md"
               }
             }
           }
@@ -217,17 +218,21 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "cb38a62d009676f2",
+  "active": "480dddddf04c7840",
   "lastOpenFiles": [
-    "World/Town of Vallaki/ST. Andral's Church(N1).md",
-    "World/Town of Vallaki/Town Of Vallaki.md",
+    "World/Old Bonegrinder.md",
+    "Session Notes/Session 8.md",
+    "Session Notes/Session 6.md",
+    "Session Notes/Session 5.md",
     "Session Notes/Session 7.md",
+    "Lore/Vallaki.md",
     "World/Town of Vallaki/Burgomaster's Mansion(N3).md",
+    "World/Town of Vallaki/Town Of Vallaki.md",
+    "World/Town of Vallaki/Blue Water Inn(N2).md",
+    "World/Town of Vallaki/ST. Andral's Church(N1).md",
     "World/Town of Vallaki/Blinksy Toys(N7).md",
     "World/Appendixes/Appendix D_ Monsters and NPCs.pdf",
-    "World/Town of Vallaki/Blue Water Inn(N2).md",
     "World/Town of Vallaki/Special Events.md",
-    "Lore/Vallaki.md",
     "World/Appendixes/Strahd_s invitation.png",
     "Mechanics/Card Reading Results.md",
     "World/Town of Vallaki/Wachterhaus(N4).md",
@@ -246,13 +251,10 @@
     "Images/Burgomaster's Mansion map.png",
     "World/Town of Vallaki/Vallaki Map.png",
     "Images/Blue Water Inn Map.png",
-    "Session Notes/Session 6.md",
     "NPC's/Ismark Kolyanovich.md",
     "Players/Zinyra Tree.md",
     "Players/Micheal \"cells\" Archibald.md",
     "Players/Ferris \"coins\" Boons.md",
-    "Players/Aromorn Morwen.md",
-    "World/Old Bonegrinder.md",
     "Manuals/Dungeon Master's Guide.pdf",
     "Manuals/Monster Manual.pdf",
     "Images/Windmill Map.png",

@@ -39,7 +39,7 @@ The women seated at the table are eight Vallakian peasants (LG female commoners)
 
 The beets and turnips are for the Festival of the Blazing Sun (see the "Special Events" section). 
 
-Treasure. 
+Treasure
 The silverware set's worth 150 gp.
 
 ## Den (N3e)
@@ -122,7 +122,7 @@ The baroness used to while away long hours in this room, fondling her perfume co
 The white gown stored here belongs to the baroness. It reminds the her of happiest times.
 
 **Magic Mirror**
-A detect magic spell reveals that the mirror on the wall radiates an aura of conjuration magic. None of the mansion's other occupants are aware of this fact, because the mirror's magic hasn't been used in ages. Casting identify on the mirror reveals that an assasins ghost is attached to it. The spell also reveals the rhyme needed to summon the ghost: 
+A detect magic spell reveals that the mirror on the wall radiates an aura of conjuration magic. None of the mansion's other occupants are aware of this fact, because the mirror's magic hasn't been used in ages. Casting identify on the mirror reveals that an assassins ghost is attached to it. The spell also reveals the rhyme needed to summon the ghost: 
 Magic mirror on the wall, 
 Summon forth your shade; 
 Night's dark vengeance, heed my call 
