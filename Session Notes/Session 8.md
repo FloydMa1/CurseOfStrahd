@@ -15,3 +15,7 @@ DC 12 (Talking to the kids or searching for them): If last roll was succesfull t
 DC 15 (Staying out of trouble) If Eliam succeeds then and the last roll was succesful then Eliam sees the guards searching for fugitives and stays hidden and stays carefull. If not Eliam will run into Ismark that ran into troubled guards talking about a break in in the Baron's mansion. They notice Eliam and also start to question him. 
 
 Roll for the Baron Per. to see if he recognized the burgulars. DC 17, if succesful he knows who he is looking for and will not stop until he finds them and kicks them out of the city and removes them from their wares.
+
+The day after the long rest the following characters can be seen in the Inn: Rictavio(legendary vampire hunter Rudolph van Richten) and his pet monkey(Picollo), Nikolai and Karl(Wachter brothers).
+
+Ernst Larnak, Lady Fiona Wachter her spy start following the characters this day.

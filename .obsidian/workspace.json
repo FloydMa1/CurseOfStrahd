@@ -20,18 +20,6 @@
             }
           },
           {
-            "id": "f1095ec1d6442332",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "World/Old Bonegrinder.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "9e8671c9f35d6733",
             "type": "leaf",
             "state": {
@@ -56,6 +44,18 @@
             }
           },
           {
+            "id": "380ba2994a6cedc4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "World/Town of Vallaki/Special Events.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "9290e921c2636f63",
             "type": "leaf",
             "state": {
@@ -69,18 +69,6 @@
           },
           {
             "id": "732a86e91d52814b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "World/Town of Vallaki/Burgomaster's Mansion(N3).md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2ffea135a0c7911b",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -220,19 +208,19 @@
   },
   "active": "480dddddf04c7840",
   "lastOpenFiles": [
-    "World/Old Bonegrinder.md",
+    "World/Town of Vallaki/Blue Water Inn(N2).md",
+    "World/Town of Vallaki/Town Of Vallaki.md",
     "Session Notes/Session 8.md",
+    "Lore/Vallaki.md",
+    "World/Town of Vallaki/Special Events.md",
+    "World/Old Bonegrinder.md",
     "Session Notes/Session 6.md",
     "Session Notes/Session 5.md",
     "Session Notes/Session 7.md",
-    "Lore/Vallaki.md",
     "World/Town of Vallaki/Burgomaster's Mansion(N3).md",
-    "World/Town of Vallaki/Town Of Vallaki.md",
-    "World/Town of Vallaki/Blue Water Inn(N2).md",
     "World/Town of Vallaki/ST. Andral's Church(N1).md",
     "World/Town of Vallaki/Blinksy Toys(N7).md",
     "World/Appendixes/Appendix D_ Monsters and NPCs.pdf",
-    "World/Town of Vallaki/Special Events.md",
     "World/Appendixes/Strahd_s invitation.png",
     "Mechanics/Card Reading Results.md",
     "World/Town of Vallaki/Wachterhaus(N4).md",
