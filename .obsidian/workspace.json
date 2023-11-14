@@ -20,6 +20,18 @@
             }
           },
           {
+            "id": "0e321a907c259ab7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "World/Barovia.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "9e8671c9f35d6733",
             "type": "leaf",
             "state": {
@@ -44,18 +56,6 @@
             }
           },
           {
-            "id": "380ba2994a6cedc4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "World/Town of Vallaki/Special Events.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "9290e921c2636f63",
             "type": "leaf",
             "state": {
@@ -74,6 +74,30 @@
               "type": "markdown",
               "state": {
                 "file": "World/Town of Vallaki/Burgomaster's Mansion(N3).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9a6bf7be34706bd9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "World/Town of Vallaki/Special Events.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "29761372d8d0274d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "World/Town of Vallaki/ST. Andral's Church(N1).md",
                 "mode": "source",
                 "source": false
               }
@@ -208,19 +232,22 @@
   },
   "active": "480dddddf04c7840",
   "lastOpenFiles": [
-    "World/Town of Vallaki/Blue Water Inn(N2).md",
-    "World/Town of Vallaki/Town Of Vallaki.md",
+    "World/Barovia.md",
     "Session Notes/Session 8.md",
-    "Lore/Vallaki.md",
     "World/Town of Vallaki/Special Events.md",
+    "World/Town of Vallaki/ST. Andral's Church(N1).md",
+    "World/Appendixes/Monsters and Creatures.md",
+    "World/Appendixes/Appendix D_ Monsters and NPCs.pdf",
+    "Mechanics/Encounters.md",
+    "World/Town of Vallaki/Burgomaster's Mansion(N3).md",
+    "World/Town of Vallaki/Blue Water Inn(N2).md",
+    "Lore/Vallaki.md",
+    "World/Town of Vallaki/Town Of Vallaki.md",
     "World/Old Bonegrinder.md",
     "Session Notes/Session 6.md",
     "Session Notes/Session 5.md",
     "Session Notes/Session 7.md",
-    "World/Town of Vallaki/Burgomaster's Mansion(N3).md",
-    "World/Town of Vallaki/ST. Andral's Church(N1).md",
     "World/Town of Vallaki/Blinksy Toys(N7).md",
-    "World/Appendixes/Appendix D_ Monsters and NPCs.pdf",
     "World/Appendixes/Strahd_s invitation.png",
     "Mechanics/Card Reading Results.md",
     "World/Town of Vallaki/Wachterhaus(N4).md",
@@ -229,20 +256,16 @@
     "World/Town of Vallaki/Vallaki Camp(N9).md",
     "World/Town of Vallaki/Arasek Stockyard(N5).md",
     "World/Village of Barovia/The village of Barovia.md",
-    "World/Barovia.md",
     "World/Village of Barovia/Mad Mary_s Townhouse (E3).md",
     "Images/Screenshot 2023-10-24 at 15.18.40.png",
     "Images/Coffin shop map.png",
     "Images/Screenshot 2023-10-24 at 15.00.30.png",
     "Images/Wachterhaus map.png",
-    "World/Appendixes/Monsters and Creatures.md",
     "Images/Burgomaster's Mansion map.png",
     "World/Town of Vallaki/Vallaki Map.png",
     "Images/Blue Water Inn Map.png",
     "NPC's/Ismark Kolyanovich.md",
     "Players/Zinyra Tree.md",
-    "Players/Micheal \"cells\" Archibald.md",
-    "Players/Ferris \"coins\" Boons.md",
     "Manuals/Dungeon Master's Guide.pdf",
     "Manuals/Monster Manual.pdf",
     "Images/Windmill Map.png",
