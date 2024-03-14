@@ -142,7 +142,7 @@ Here, we describe the ruins of Berez, a riverside village that is now home to th
 Here, the details of Van Richten's Tower, a dilapidated structure that originally belonged to the wizard Khazan.
 
 ## The Wizard of Wines(W)
-Here, we visit the Wizard of Wines, the vineyard and winery that provides Barovia much of its wine.
+Here, we visit [[The Wizard of Wines]], the vineyard and winery that provides Barovia much of its wine.
 
 ## The Amber Temple(X)
 Here, we delve into the Amber Temple, the dungeon complex where Strahd gave himself to the Dark Powers.

@@ -53,3 +53,6 @@ This unseen servant was created by Strahd and is permanent until destroyed. Roll
 A mob of severed hands, their mummified Aesh black with soot, skitters out of the darkness across the dusty Aoor.
 
 The crawling claws gang up on one party member. During the confusion, one of the claws tries to crawl into the character's backpack and hide there. It makes a Dexterity (Stealth) check contested by the character's passive Wisdom (Perception) score. If the claw loses the contest, the character sees the claw enter the backpack. If the claw wins the contest, it waits until the character takes a long rest before scuttling out to attack.
+
+## Druid
+![[Pasted image 20240306090857.png]]

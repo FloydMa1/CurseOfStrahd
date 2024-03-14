@@ -8,12 +8,24 @@
         "type": "tabs",
         "children": [
           {
-            "id": "480dddddf04c7840",
+            "id": "df200227cc27dab1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Session Notes/Session 8.md",
+                "file": "World/The Wizards of Wines.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6840375c0f64b521",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "World/Town of Vallaki/Blue Water Inn(N2).md",
                 "mode": "source",
                 "source": false
               }
@@ -169,7 +181,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Session Notes/Session 8.md",
+                "file": "World/The Wizards of Wines.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -186,7 +198,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Session Notes/Session 8.md",
+                "file": "World/The Wizards of Wines.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -209,7 +221,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Session Notes/Session 8.md"
+                "file": "World/The Wizards of Wines.md"
               }
             }
           }
@@ -230,33 +242,40 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "480dddddf04c7840",
+  "active": "df200227cc27dab1",
   "lastOpenFiles": [
+    "Lore/Keepers of the feathers.md",
+    "World/The Wizards of Wines.md",
+    "World/Town of Vallaki/Blue Water Inn(N2).md",
+    "Session Notes/Session 9.md",
+    "The Wizard of Wines.md",
+    "World/Appendixes/Monsters and Creatures.md",
+    "Images/Pasted image 20240306090857.png",
+    "World/Appendixes/Appendix D_ Monsters and NPCs.pdf",
+    "Items and Weapons/Magical Items/Gulthias Staff.md",
     "World/Barovia.md",
+    "Manuals/Monster Manual.pdf",
+    "Manuals/Dungeon Master_s Guide.pdf",
+    "World/Town of Vallaki/Town Of Vallaki.md",
+    "Lore/Vallaki.md",
+    "Images/Map winery.png",
+    "World/Town of Vallaki/Blinksy Toys(N7).md",
+    "World/Town of Vallaki/Arasek Stockyard(N5).md",
     "Session Notes/Session 8.md",
     "World/Town of Vallaki/Special Events.md",
     "World/Town of Vallaki/ST. Andral's Church(N1).md",
-    "World/Appendixes/Monsters and Creatures.md",
-    "World/Appendixes/Appendix D_ Monsters and NPCs.pdf",
     "Mechanics/Encounters.md",
     "World/Town of Vallaki/Burgomaster's Mansion(N3).md",
-    "World/Town of Vallaki/Blue Water Inn(N2).md",
-    "Lore/Vallaki.md",
-    "World/Town of Vallaki/Town Of Vallaki.md",
     "World/Old Bonegrinder.md",
     "Session Notes/Session 6.md",
     "Session Notes/Session 5.md",
     "Session Notes/Session 7.md",
-    "World/Town of Vallaki/Blinksy Toys(N7).md",
     "World/Appendixes/Strahd_s invitation.png",
     "Mechanics/Card Reading Results.md",
     "World/Town of Vallaki/Wachterhaus(N4).md",
     "World/Town of Vallaki/Town Square(N8).md",
     "World/Town of Vallaki/Coffin maker's shop(N6).md",
     "World/Town of Vallaki/Vallaki Camp(N9).md",
-    "World/Town of Vallaki/Arasek Stockyard(N5).md",
-    "World/Village of Barovia/The village of Barovia.md",
-    "World/Village of Barovia/Mad Mary_s Townhouse (E3).md",
     "Images/Screenshot 2023-10-24 at 15.18.40.png",
     "Images/Coffin shop map.png",
     "Images/Screenshot 2023-10-24 at 15.00.30.png",
@@ -264,19 +283,13 @@
     "Images/Burgomaster's Mansion map.png",
     "World/Town of Vallaki/Vallaki Map.png",
     "Images/Blue Water Inn Map.png",
-    "NPC's/Ismark Kolyanovich.md",
-    "Players/Zinyra Tree.md",
     "Manuals/Dungeon Master's Guide.pdf",
-    "Manuals/Monster Manual.pdf",
-    "Images/Windmill Map.png",
-    "Images/Dretch Stats.png",
     "World/Appendixes/Appendix D; Monsters and NPCs.pdf",
     "World/Town of Vallaki",
     "Manuals/Player's Handbook.pdf",
     "Mechanics/Card Reading Madam Eva.pdf",
     "Items and Weapons/Appendix C; Treasure.pdf",
     "Items and Weapons/Items",
-    "World/Village of Barovia/Haunted House (E7).pdf",
     "Untitled.canvas"
   ]
 }
