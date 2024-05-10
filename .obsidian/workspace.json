@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Session Notes/Session 8.md",
+                "file": "World/Van Richten's Tower.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "World/Barovia.md",
+                "file": "World/The Wizard of Wines.md",
                 "mode": "source",
                 "source": false
               }
@@ -103,7 +103,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -169,7 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Session Notes/Session 8.md",
+                "file": "World/The Wizard of Wines.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -186,7 +187,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Session Notes/Session 8.md",
+                "file": "World/The Wizard of Wines.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -209,7 +210,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Session Notes/Session 8.md"
+                "file": "World/The Wizard of Wines.md"
               }
             }
           }
@@ -230,9 +231,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "480dddddf04c7840",
+  "active": "0e321a907c259ab7",
   "lastOpenFiles": [
     "World/Barovia.md",
+    "World/The Wizard of Wines.md",
+    "World/Van Richten's Tower.md",
+    "Lore/Vallaki.md",
+    "NPC_s/Ismark Kolyanovich.md",
+    "Images/Ismark Stats 1.png",
+    "NPC_s/Ireena Kolyana.md",
     "Session Notes/Session 8.md",
     "World/Town of Vallaki/Special Events.md",
     "World/Town of Vallaki/ST. Andral's Church(N1).md",
@@ -241,7 +248,6 @@
     "Mechanics/Encounters.md",
     "World/Town of Vallaki/Burgomaster's Mansion(N3).md",
     "World/Town of Vallaki/Blue Water Inn(N2).md",
-    "Lore/Vallaki.md",
     "World/Town of Vallaki/Town Of Vallaki.md",
     "World/Old Bonegrinder.md",
     "Session Notes/Session 6.md",
@@ -256,7 +262,6 @@
     "World/Town of Vallaki/Vallaki Camp(N9).md",
     "World/Town of Vallaki/Arasek Stockyard(N5).md",
     "World/Village of Barovia/The village of Barovia.md",
-    "World/Village of Barovia/Mad Mary_s Townhouse (E3).md",
     "Images/Screenshot 2023-10-24 at 15.18.40.png",
     "Images/Coffin shop map.png",
     "Images/Screenshot 2023-10-24 at 15.00.30.png",
@@ -264,12 +269,9 @@
     "Images/Burgomaster's Mansion map.png",
     "World/Town of Vallaki/Vallaki Map.png",
     "Images/Blue Water Inn Map.png",
-    "NPC's/Ismark Kolyanovich.md",
-    "Players/Zinyra Tree.md",
     "Manuals/Dungeon Master's Guide.pdf",
     "Manuals/Monster Manual.pdf",
     "Images/Windmill Map.png",
-    "Images/Dretch Stats.png",
     "World/Appendixes/Appendix D; Monsters and NPCs.pdf",
     "World/Town of Vallaki",
     "Manuals/Player's Handbook.pdf",
